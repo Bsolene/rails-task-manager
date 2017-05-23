@@ -1,0 +1,33 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.wrapper-orange{
+  background-color: #FFD3B6;
+  border: 1px solid #FFAAA5;
+  padding: 20px 100px;
+  margin: 0;
+}
+.wrapper-grey{
+  background-color: lightgrey;
+  margin: 50px 300px;
+  padding: 40px 40px;
+}
+.wrapper-green{
+  background-color: #DCEDC1;
+  border: 1px solid #A8E6CF;
+  padding: 20px 50px;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.padded{
+  padding-top: 20px;
+}
+body a{
+  color: black;
+}
+.wrapper-orange a:hover{
+  color: #FFAAA5;
+  text-decoration: none;
+}
+
